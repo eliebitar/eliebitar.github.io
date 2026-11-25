@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eliebitar.sprout",
+      "sha256_cert_fingerprints": [
+        "4C:BA:86:5A:90:BD:B7:DD:33:57:75:BA:43:EF:C0:F3:ED:F5:6D:41:C2:63:5F:42:A9:48:2B:75:FF:37:22:EF",
+        "9D:23:E2:9B:95:3B:BA:0E:FA:FC:A9:DE:5B:F8:7A:55:04:93:1A:7B:D8:14:13:16:DE:B9:AD:2A:45:AB:08:7C",
+        "8C:5A:78:7E:FF:22:81:6C:FE:8B:75:9A:15:AF:8F:7F:A6:1F:FC:AB:27:E4:86:BD:44:53:A8:50:AD:A7:37:6E"
+      ]
+    }
+  }
+]
